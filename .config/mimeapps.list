@@ -1,0 +1,5 @@
+[Added Associations]
+application/x-shellscript=sublime_text.desktop;geany.desktop;
+
+[Default Applications]
+application/x-shellscript=sublime_text.desktop
